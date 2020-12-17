@@ -112,7 +112,7 @@ FrozenCookies.preferenceValues = {
     },
     'autoGodzamokRebuy': {
         'hint': 'When buildings are automatically sacrificed to Godzamok, rebuy sold buildings even if autobuy is off',
-        'display': ['Auto-Godzamok Rebuy ON', 'Auto-Godzamok Rebuy OFF'],
+        'display': ['Auto-Godzamok Rebuy OFF', 'Auto-Godzamok Rebuy ON'],
         'default': 0
     },
     'autoSpell': {
